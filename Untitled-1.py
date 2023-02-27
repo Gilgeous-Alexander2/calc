@@ -19,5 +19,6 @@ while f!="нет":
         print("Еще?(да/нет)")
         f=input()
     except:
-            print("не надо так")
+            print("не надо так cksi")
+            
 
